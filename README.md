@@ -58,12 +58,13 @@ Created a real-time computer vision system that controls computer volume using h
 
 ---
 
-### Machine Learning – Wine Quality Prediction
-Applied classification, regression and clustering techniques to analyse and predict wine quality.
+## Machine Learning – Wine Quality Analysis
 
-**Technologies:** MATLAB, Machine Learning, Data Analysis
+Applied supervised and unsupervised machine learning to analyse wine quality using classification, regression and K-means clustering, including model comparison and validation.
 
-[View Project →](LINK-TO-REPOSITORY)
+**Technologies:** MATLAB, Machine Learning, Gaussian Process Regression, Bagged Trees, K-means, PCA
+
+[View Project →](https://github.com/mua35-RoboticsEngineering/MachineLearning-WineQuality)
 
 ---
 
