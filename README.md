@@ -49,12 +49,13 @@ Designed and developed a mobile robot using inductive sensing and embedded motor
 
 ---
 
-### Gesture Volume Control
-Created a real-time computer vision system that controls computer volume using hand gestures.
+## Gesture Volume Control
 
-**Technologies:** Python, OpenCV, MediaPipe, Computer Vision
+Developed a real-time computer vision system that tracks hand landmarks and controls Windows system volume using the distance between the thumb and index finger. The project uses a modular hand-tracking implementation and includes multi-user testing with a working video demonstration.
 
-[View Project →](LINK-TO-REPOSITORY)
+**Technologies:** Python, OpenCV, MediaPipe, CVZone, NumPy, Pycaw, Computer Vision
+
+[View Project →](https://github.com/mua35-RoboticsEngineering/Python-GestureVolumeControl)
 
 ---
 
