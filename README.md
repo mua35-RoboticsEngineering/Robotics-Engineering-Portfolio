@@ -10,12 +10,15 @@ This portfolio showcases some of my academic and personal engineering projects, 
 
 ## Featured Projects
 
-### FPGA Pong
-Implemented the game Pong in SystemVerilog and deployed it onto an FPGA using Quartus Prime.
+### 🎮 FPGA Pong Game
 
-**Technologies:** SystemVerilog, FPGA, Quartus Prime, Digital Logic
+Hardware implementation of the classic Pong game developed in **SystemVerilog** and deployed onto a **DE1-SoC FPGA** using **Intel Quartus Prime**.
 
-[View Project →](LINK-TO-REPOSITORY)
+The project implements real-time VGA graphics, two-player paddle control, ball movement and collision detection, score tracking, seven-segment display output, and physical FPGA I/O.
+
+**Technologies:** SystemVerilog • FPGA • Intel Quartus Prime • DE1-SoC • VGA • Digital Logic
+
+**[View Full Project →](https://github.com/mua35-RoboticsEngineering/FPGA-PongGame)**
 
 ---
 
