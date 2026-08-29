@@ -49,17 +49,17 @@ Designed and developed a mobile robot using inductive sensing and embedded motor
 
 ---
 
-## Gesture Volume Control
+### Gesture Volume Control
 
 Developed a real-time computer vision system that tracks hand landmarks and controls Windows system volume using the distance between the thumb and index finger. The project uses a modular hand-tracking implementation and includes multi-user testing with a working video demonstration.
 
 **Technologies:** Python, OpenCV, MediaPipe, CVZone, NumPy, Pycaw, Computer Vision
 
-[View Project →](https://github.com/mua35-RoboticsEngineering/Python-GestureVolumeControl)
+**[View Project →](https://github.com/mua35-RoboticsEngineering/Python-GestureVolumeControl)**
 
 ---
 
-## Machine Learning – Wine Quality Analysis
+### Machine Learning – Wine Quality Analysis
 
 Applied supervised and unsupervised machine learning to analyse wine quality using classification, regression and K-means clustering, including model comparison and validation.
 
