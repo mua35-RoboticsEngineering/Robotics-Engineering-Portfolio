@@ -32,11 +32,12 @@ Developed an ECG acquisition and signal-processing system involving filtering, s
 ---
 
 ### Wireless Positioning System
-Developed an 868 MHz wireless system using RSSI measurements, signal mapping and localisation techniques.
 
-**Technologies:** ESP32, Python, MATLAB, RF Systems
+Developed an indoor wireless sensing and positioning system using Arduino Nano ESP32 devices and 868 MHz RF transceivers. RSSI measurements were processed in Python using temporal averaging, path-loss modelling and least-squares multilateration to estimate and visualise receiver position in real time. The project was completed as part of a University of Bath group project week and also involved RF signal mapping, experimental data collection, engineering risk assessment and wireless-system evaluation.
 
-[View Project →](LINK-TO-REPOSITORY)
+**Technologies:** Python, Arduino Nano ESP32, 868 MHz RF, RSSI, NumPy, Matplotlib, PySerial, MATLAB, Signal Processing
+
+**[View Project →](https://github.com/mua35-RoboticsEngineering/Python-WirelessPositioningSystem)**
 
 ---
 
