@@ -16,7 +16,7 @@ Hardware implementation of the classic Pong game developed in **SystemVerilog** 
 
 The project implements real-time VGA graphics, two-player paddle control, ball movement and collision detection, score tracking, seven-segment display output, and physical FPGA I/O.
 
-**Technologies:** SystemVerilog • FPGA • Intel Quartus Prime • DE1-SoC • VGA • Digital Logic
+**Technologies:** SystemVerilog, FPGA, Intel Quartus Prime, DE1-SoC, VGA, Digital Logic
 
 **[View Full Project →](https://github.com/mua35-RoboticsEngineering/FPGA-PongGame)**
 
