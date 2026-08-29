@@ -1,2 +1,83 @@
-# Robotics-Engineering-Portfolio
-A portfolio of my robotics, embedded systems, FPGA, control, machine learning and software engineering projects.
+# Robotics Engineering Portfolio
+
+Welcome to my engineering portfolio.
+
+I am a Robotics Engineering student from the University of Bath with experience across embedded systems, FPGA development, control systems, machine learning, computer vision, signal processing and autonomous systems.
+
+This portfolio showcases some of my academic and personal engineering projects, with links to individual repositories containing source code, technical documentation, results and demonstrations.
+
+---
+
+## Featured Projects
+
+### FPGA Pong
+Implemented the game Pong in SystemVerilog and deployed it onto an FPGA using Quartus Prime.
+
+**Technologies:** SystemVerilog, FPGA, Quartus Prime, Digital Logic
+
+[View Project →](LINK-TO-REPOSITORY)
+
+---
+
+### ECG Signal Processing
+Developed an ECG acquisition and signal-processing system involving filtering, spectral analysis and QRS detection.
+
+**Technologies:** MATLAB, Signal Processing, Biomedical Engineering
+
+[View Project →](LINK-TO-REPOSITORY)
+
+---
+
+### Wireless Positioning System
+Developed an 868 MHz wireless system using RSSI measurements, signal mapping and localisation techniques.
+
+**Technologies:** ESP32, Python, MATLAB, RF Systems
+
+[View Project →](LINK-TO-REPOSITORY)
+
+---
+
+### Autonomous Wire-Following Robot
+Designed and developed a mobile robot using inductive sensing and embedded motor control to follow a wire path.
+
+**Technologies:** Arduino, C++, Electronics, Embedded Systems
+
+[View Project →](LINK-TO-REPOSITORY)
+
+---
+
+### Gesture Volume Control
+Created a real-time computer vision system that controls computer volume using hand gestures.
+
+**Technologies:** Python, OpenCV, MediaPipe, Computer Vision
+
+[View Project →](LINK-TO-REPOSITORY)
+
+---
+
+### Machine Learning – Wine Quality Prediction
+Applied classification, regression and clustering techniques to analyse and predict wine quality.
+
+**Technologies:** MATLAB, Machine Learning, Data Analysis
+
+[View Project →](LINK-TO-REPOSITORY)
+
+---
+
+## Technical Skills
+
+**Programming:** Python, C++, MATLAB, SystemVerilog
+
+**Embedded & Hardware:** FPGA, Arduino, ESP32, Digital Electronics, Sensors
+
+**Robotics & Control:** Control Systems, Autonomous Systems, Path Planning, Signal Processing
+
+**Software & Tools:** MATLAB/Simulink, Quartus Prime, LTspice, ANSYS, SolidWorks, Unreal Engine
+
+---
+
+## Project Repositories
+
+Individual project repositories are currently being added and documented.
+
+Each repository will contain relevant source code, technical documentation, diagrams, results and demonstrations.
