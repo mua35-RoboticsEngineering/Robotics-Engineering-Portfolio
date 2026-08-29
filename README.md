@@ -42,11 +42,12 @@ Developed an indoor wireless sensing and positioning system using Arduino Nano E
 ---
 
 ### Autonomous Wire-Following Robot
-Designed and developed a mobile robot using inductive sensing and embedded motor control to follow a wire path.
 
-**Technologies:** Arduino, C++, Electronics, Embedded Systems
+Designed and developed an autonomous mobile robot during a University of Bath group project, using inductive sensing to detect a 20 kHz track wire and embedded control to autonomously follow the path. The system integrated analogue signal conditioning, peak detection, PWM-based differential motor control, MOSFET motor drivers, circuit simulation, laboratory testing and iterative hardware/software development.
 
-[View Project →](LINK-TO-REPOSITORY)
+**Technologies:** Arduino Nano ESP32, C++, LTspice, MATLAB/Simulink, PWM Control, MOSFET Motor Drivers, Analogue Electronics, Signal Processing, Embedded Systems, Git/GitHub
+
+**[View Project →](https://github.com/mua35-RoboticsEngineering/Autonomous-Wire-Following-Robot)**
 
 ---
 
