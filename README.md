@@ -10,7 +10,7 @@ This portfolio showcases some of my academic and personal engineering projects, 
 
 ## Featured Projects
 
-### 🎮 FPGA Pong Game
+### FPGA Pong Game
 
 Hardware implementation of the classic Pong game developed in **SystemVerilog** and deployed onto a **DE1-SoC FPGA** using **Intel Quartus Prime**.
 
