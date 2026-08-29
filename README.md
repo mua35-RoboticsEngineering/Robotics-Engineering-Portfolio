@@ -64,7 +64,7 @@ Applied supervised and unsupervised machine learning to analyse wine quality usi
 
 **Technologies:** MATLAB, Machine Learning, Gaussian Process Regression, Bagged Trees, K-means, PCA
 
-[View Project →](https://github.com/mua35-RoboticsEngineering/MachineLearning-WineQuality)
+**[View Project →](https://github.com/mua35-RoboticsEngineering/MachineLearning-WineQuality)**
 
 ---
 
