@@ -22,12 +22,12 @@ The project implements real-time VGA graphics, two-player paddle control, ball m
 
 ---
 
-### ECG Signal Processing
-Developed an ECG acquisition and signal-processing system involving filtering, spectral analysis and QRS detection.
+### ECG Signal Processing and Spectrum Analysis
+Analysed a real-world ECG signal in MATLAB using FFT-based spectral analysis to investigate its time and frequency-domain behaviour, identify the dominant cardiac frequency, and estimate heart rate at approximately 74 BPM. The repository contains original project screenshots retained from my University of Bath portfolio, as the MATLAB source files are no longer available.
 
-**Technologies:** MATLAB, Signal Processing, Biomedical Engineering
+**Technologies:** MATLAB, Digital Signal Processing, FFT, Spectral Analysis, Biomedical Signal Processing
 
-[View Project →](LINK-TO-REPOSITORY)
+[View Project →](https://github.com/mua35-RoboticsEngineering/MATLAB-ECG-Signal-Processing)
 
 ---
 
