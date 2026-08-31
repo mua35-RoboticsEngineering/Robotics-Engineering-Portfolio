@@ -18,7 +18,7 @@ The project implements real-time VGA graphics, two-player paddle control, ball m
 
 **Technologies:** SystemVerilog, FPGA, Intel Quartus Prime, DE1-SoC, VGA, Digital Logic
 
-**[View Full Project →](https://github.com/mua35-RoboticsEngineering/FPGA-PongGame)**
+**[View Project →](https://github.com/mua35-RoboticsEngineering/FPGA-PongGame)**
 
 ---
 
