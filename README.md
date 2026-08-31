@@ -61,7 +61,7 @@ Developed a real-time computer vision system that tracks hand landmarks and cont
 
 ---
 
-### Machine Learning – Wine Quality Analysis
+### Machine Learning - Wine Quality Analysis
 
 Applied supervised and unsupervised machine learning to analyse wine quality using classification, regression and K-means clustering, including model comparison and validation.
 
