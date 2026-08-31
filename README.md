@@ -27,7 +27,7 @@ Analysed a real-world ECG signal in MATLAB using FFT-based spectral analysis to 
 
 **Technologies:** MATLAB, Digital Signal Processing, FFT, Spectral Analysis, Biomedical Signal Processing
 
-[View Project →](https://github.com/mua35-RoboticsEngineering/MATLAB-ECG-Signal-Processing)
+**[View Project →](https://github.com/mua35-RoboticsEngineering/MATLAB-ECG-Signal-Processing)**
 
 ---
 
