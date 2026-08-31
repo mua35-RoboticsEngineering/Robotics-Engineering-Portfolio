@@ -71,6 +71,10 @@ Applied supervised and unsupervised machine learning to analyse wine quality usi
 
 ---
 
+
+
+---
+
 ## Technical Skills
 
 **Programming:** Python, C++, MATLAB, SystemVerilog
@@ -80,11 +84,3 @@ Applied supervised and unsupervised machine learning to analyse wine quality usi
 **Robotics & Control:** Control Systems, Autonomous Systems, Path Planning, Signal Processing
 
 **Software & Tools:** MATLAB/Simulink, Quartus Prime, LTspice, ANSYS, SolidWorks, Unreal Engine
-
----
-
-## Project Repositories
-
-Individual project repositories are currently being added and documented.
-
-Each repository will contain relevant source code, technical documentation, diagrams, results and demonstrations.
