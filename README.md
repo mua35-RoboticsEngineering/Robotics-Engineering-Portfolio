@@ -71,7 +71,7 @@ Applied supervised and unsupervised machine learning to analyse wine quality usi
 
 ---
 
-### ⚡ Three-Phase Inverter & PMSM/BLDC Motor Simulation
+### Three-Phase Inverter & PMSM/BLDC Motor Simulation
 
 Designed and simulated a three-phase PWM inverter in **LTspice**, then modelled the motor system in **ANSYS Maxwell** to analyse switching behaviour, three-phase excitation, magnetic flux, stator currents and electromagnetic torque.
 
